@@ -1,0 +1,919 @@
+﻿Round,Home,HG,AG,Away,Season,Res,W,L
+1,Handball Sportverein Hamburg,30,31,SG Flensburg-Handewitt,2022,A,31,30
+1,TBV Lemgo Lippe,26,30,VfL Gummersbach,2022,A,30,26
+1,TSV Hannover-Burgdorf,25,22,SC DHfK Leipzig,2022,H,25,22
+1,HC Erlangen,31,27,HSG Wetzlar,2022,H,31,27
+1,Rhein-Neckar Löwen,36,25,MT Melsungen,2022,H,36,25
+1,SC Magdeburg,31,23,ASV Hamm-Westfalen,2022,H,31,23
+1,Füchse Berlin,34,27,FRISCH AUF! Göppingen,2022,H,34,27
+1,THW Kiel,36,23,TVB 1898 Stuttgart,2022,H,36,23
+1,GWD Minden,25,28,Bergischer HC,2022,A,28,25
+2,FRISCH AUF! Göppingen,34,31,TBV Lemgo Lippe,2022,H,34,31
+2,HSG Wetzlar,25,37,Füchse Berlin,2022,A,37,25
+2,SG Flensburg-Handewitt,36,23,GWD Minden,2022,H,36,23
+2,Bergischer HC,22,23,TSV Hannover-Burgdorf,2022,A,23,22
+2,SC DHfK Leipzig,22,32,THW Kiel,2022,A,32,22
+2,MT Melsungen,30,27,Handball Sportverein Hamburg,2022,H,30,27
+2,VfL Gummersbach,28,30,SC Magdeburg,2022,A,30,28
+2,TVB 1898 Stuttgart,27,29,HC Erlangen,2022,A,29,27
+2,ASV Hamm-Westfalen,30,35,Rhein-Neckar Löwen,2022,A,35,30
+3,TSV Hannover-Burgdorf,25,35,SG Flensburg-Handewitt,2022,A,35,25
+3,Füchse Berlin,31,21,TVB 1898 Stuttgart,2022,H,31,21
+3,TBV Lemgo Lippe,28,28,MT Melsungen,2022,D,28,28
+3,THW Kiel,35,29,Bergischer HC,2022,H,35,29
+3,Handball Sportverein Hamburg,27,21,GWD Minden,2022,H,27,21
+3,VfL Gummersbach,29,28,ASV Hamm-Westfalen,2022,H,29,28
+3,HC Erlangen,34,28,FRISCH AUF! Göppingen,2022,H,34,28
+3,SC Magdeburg,32,28,HSG Wetzlar,2022,H,32,28
+3,Rhein-Neckar Löwen,30,24,SC DHfK Leipzig,2022,H,30,24
+4,SG Flensburg-Handewitt,31,31,Füchse Berlin,2022,D,31,31
+4,Bergischer HC,32,28,TBV Lemgo Lippe,2022,H,32,28
+4,ASV Hamm-Westfalen,29,32,HC Erlangen,2022,A,32,29
+4,TVB 1898 Stuttgart,30,43,Rhein-Neckar Löwen,2022,A,43,30
+4,FRISCH AUF! Göppingen,26,31,SC Magdeburg,2022,A,31,26
+4,HSG Wetzlar,29,30,VfL Gummersbach,2022,A,30,29
+4,MT Melsungen,28,31,TSV Hannover-Burgdorf,2022,A,31,28
+4,SC DHfK Leipzig,22,23,Handball Sportverein Hamburg,2022,A,23,22
+4,GWD Minden,18,34,THW Kiel,2022,A,34,18
+5,Füchse Berlin,37,26,ASV Hamm-Westfalen,2022,H,37,26
+5,Handball Sportverein Hamburg,33,23,Bergischer HC,2022,H,33,23
+5,VfL Gummersbach,29,24,TVB 1898 Stuttgart,2022,H,29,24
+5,Rhein-Neckar Löwen,28,27,SG Flensburg-Handewitt,2022,H,28,27
+5,HSG Wetzlar,25,25,FRISCH AUF! Göppingen,2022,D,25,25
+5,TSV Hannover-Burgdorf,27,29,THW Kiel,2022,A,29,27
+5,SC Magdeburg,39,25,GWD Minden,2022,H,39,25
+5,TBV Lemgo Lippe,29,29,SC DHfK Leipzig,2022,D,29,29
+5,HC Erlangen,34,34,MT Melsungen,2022,D,34,34
+6,SC DHfK Leipzig,32,29,HC Erlangen,2022,H,32,29
+6,Bergischer HC,26,27,Rhein-Neckar Löwen,2022,A,27,26
+6,TVB 1898 Stuttgart,32,28,TBV Lemgo Lippe,2022,H,32,28
+6,GWD Minden,34,35,TSV Hannover-Burgdorf,2022,A,35,34
+6,ASV Hamm-Westfalen,23,29,HSG Wetzlar,2022,A,29,23
+6,SG Flensburg-Handewitt,35,34,SC Magdeburg,2022,H,35,34
+6,MT Melsungen,29,32,Füchse Berlin,2022,A,32,29
+6,FRISCH AUF! Göppingen,29,28,VfL Gummersbach,2022,H,29,28
+6,THW Kiel,40,28,Handball Sportverein Hamburg,2022,H,40,28
+7,HSG Wetzlar,32,24,TVB 1898 Stuttgart,2022,H,32,24
+7,Rhein-Neckar Löwen,37,25,GWD Minden,2022,H,37,25
+7,TSV Hannover-Burgdorf,28,27,Handball Sportverein Hamburg,2022,H,28,27
+7,HC Erlangen,30,27,Bergischer HC,2022,H,30,27
+7,ASV Hamm-Westfalen,32,28,FRISCH AUF! Göppingen,2022,H,32,28
+7,Füchse Berlin,34,26,THW Kiel,2022,H,34,26
+7,SC Magdeburg,27,23,MT Melsungen,2022,H,27,23
+7,TBV Lemgo Lippe,26,21,SG Flensburg-Handewitt,2022,H,26,21
+7,VfL Gummersbach,36,36,SC DHfK Leipzig,2022,D,36,36
+8,TSV Hannover-Burgdorf,29,25,TBV Lemgo Lippe,2022,H,29,25
+8,SG Flensburg-Handewitt,27,24,FRISCH AUF! Göppingen,2022,H,27,24
+8,GWD Minden,25,32,HC Erlangen,2022,A,32,25
+8,THW Kiel,32,29,Rhein-Neckar Löwen,2022,H,32,29
+8,Handball Sportverein Hamburg,34,31,VfL Gummersbach,2022,H,34,31
+8,MT Melsungen,21,19,HSG Wetzlar,2022,H,21,19
+8,SC DHfK Leipzig,26,31,Füchse Berlin,2022,A,31,26
+8,TVB 1898 Stuttgart,29,20,ASV Hamm-Westfalen,2022,H,29,20
+8,Bergischer HC,34,38,SC Magdeburg,2022,A,38,34
+9,FRISCH AUF! Göppingen,24,25,TVB 1898 Stuttgart,2022,A,25,24
+9,VfL Gummersbach,26,22,GWD Minden,2022,H,26,22
+9,ASV Hamm-Westfalen,18,28,MT Melsungen,2022,A,28,18
+9,Füchse Berlin,29,27,Bergischer HC,2022,H,29,27
+9,HSG Wetzlar,22,27,SG Flensburg-Handewitt,2022,A,27,22
+9,SC Magdeburg,32,24,SC DHfK Leipzig,2022,H,32,24
+9,Rhein-Neckar Löwen,32,31,TSV Hannover-Burgdorf,2022,H,32,31
+9,TBV Lemgo Lippe,28,32,Handball Sportverein Hamburg,2022,A,32,28
+9,HC Erlangen,27,34,THW Kiel,2022,A,34,27
+10,SG Flensburg-Handewitt,37,23,ASV Hamm-Westfalen,2022,H,37,23
+10,TSV Hannover-Burgdorf,29,28,HC Erlangen,2022,H,29,28
+10,MT Melsungen,28,22,VfL Gummersbach,2022,H,28,22
+10,THW Kiel,32,33,TBV Lemgo Lippe,2022,A,33,32
+10,GWD Minden,32,27,Füchse Berlin,2022,H,32,27
+10,Handball Sportverein Hamburg,40,37,Rhein-Neckar Löwen,2022,H,40,37
+10,Bergischer HC,24,23,HSG Wetzlar,2022,H,24,23
+10,SC DHfK Leipzig,25,26,FRISCH AUF! Göppingen,2022,A,26,25
+10,TVB 1898 Stuttgart,28,32,SC Magdeburg,2022,A,32,28
+11,TVB 1898 Stuttgart,27,26,Bergischer HC,2022,H,27,26
+11,ASV Hamm-Westfalen,24,37,THW Kiel,2022,A,37,24
+11,SC Magdeburg,32,32,Rhein-Neckar Löwen,2022,D,32,32
+11,FRISCH AUF! Göppingen,23,29,MT Melsungen,2022,A,29,23
+11,Füchse Berlin,32,30,TSV Hannover-Burgdorf,2022,H,32,30
+11,HSG Wetzlar,24,25,SC DHfK Leipzig,2022,A,25,24
+11,TBV Lemgo Lippe,30,27,GWD Minden,2022,H,30,27
+11,VfL Gummersbach,31,29,SG Flensburg-Handewitt,2022,H,31,29
+11,HC Erlangen,35,29,Handball Sportverein Hamburg,2022,H,35,29
+12,SG Flensburg-Handewitt,31,29,HC Erlangen,2022,H,31,29
+12,Rhein-Neckar Löwen,37,28,TBV Lemgo Lippe,2022,H,37,28
+12,THW Kiel,30,26,FRISCH AUF! Göppingen,2022,H,30,26
+12,MT Melsungen,33,26,TVB 1898 Stuttgart,2022,H,33,26
+12,Bergischer HC,30,30,VfL Gummersbach,2022,D,30,30
+12,GWD Minden,26,29,HSG Wetzlar,2022,A,29,26
+12,Handball Sportverein Hamburg,28,37,Füchse Berlin,2022,A,37,28
+12,SC DHfK Leipzig,33,23,ASV Hamm-Westfalen,2022,H,33,23
+12,TSV Hannover-Burgdorf,34,31,SC Magdeburg,2022,H,34,31
+13,FRISCH AUF! Göppingen,26,29,GWD Minden,2022,A,29,26
+13,SC Magdeburg,33,34,THW Kiel,2022,A,34,33
+13,HSG Wetzlar,28,30,Handball Sportverein Hamburg,2022,A,30,28
+13,HC Erlangen,30,33,Rhein-Neckar Löwen,2022,A,33,30
+13,ASV Hamm-Westfalen,27,31,Bergischer HC,2022,A,31,27
+13,MT Melsungen,25,25,SG Flensburg-Handewitt,2022,D,25,25
+13,Füchse Berlin,32,26,TBV Lemgo Lippe,2022,H,32,26
+13,TVB 1898 Stuttgart,26,33,SC DHfK Leipzig,2022,A,33,26
+13,VfL Gummersbach,27,34,TSV Hannover-Burgdorf,2022,A,34,27
+14,Rhein-Neckar Löwen,32,34,Füchse Berlin,2022,A,34,32
+14,TSV Hannover-Burgdorf,23,26,HSG Wetzlar,2022,A,26,23
+14,SC DHfK Leipzig,40,33,MT Melsungen,2022,H,40,33
+14,GWD Minden,32,23,ASV Hamm-Westfalen,2022,H,32,23
+14,THW Kiel,31,28,VfL Gummersbach,2022,H,31,28
+14,Handball Sportverein Hamburg,28,30,SC Magdeburg,2022,A,30,28
+14,SG Flensburg-Handewitt,29,25,TVB 1898 Stuttgart,2022,H,29,25
+14,TBV Lemgo Lippe,34,27,HC Erlangen,2022,H,34,27
+14,Bergischer HC,28,26,FRISCH AUF! Göppingen,2022,H,28,26
+15,FRISCH AUF! Göppingen,26,26,Handball Sportverein Hamburg,2022,D,26,26
+15,VfL Gummersbach,29,32,Rhein-Neckar Löwen,2022,A,32,29
+15,TVB 1898 Stuttgart,27,23,GWD Minden,2022,H,27,23
+15,HC Erlangen,28,30,Füchse Berlin,2022,A,30,28
+15,HSG Wetzlar,25,31,THW Kiel,2022,A,31,25
+15,SC Magdeburg,37,33,TBV Lemgo Lippe,2022,H,37,33
+15,MT Melsungen,22,22,Bergischer HC,2022,D,22,22
+15,SC DHfK Leipzig,31,30,SG Flensburg-Handewitt,2022,H,31,30
+15,ASV Hamm-Westfalen,29,29,TSV Hannover-Burgdorf,2022,D,29,29
+16,Handball Sportverein Hamburg,32,25,ASV Hamm-Westfalen,2022,H,32,25
+16,TBV Lemgo Lippe,34,29,HSG Wetzlar,2022,H,34,29
+16,HC Erlangen,31,37,VfL Gummersbach,2022,A,37,31
+16,GWD Minden,28,29,SC DHfK Leipzig,2022,A,29,28
+16,Füchse Berlin,31,32,SC Magdeburg,2022,A,32,31
+16,Rhein-Neckar Löwen,36,33,FRISCH AUF! Göppingen,2022,H,36,33
+16,THW Kiel,24,22,MT Melsungen,2022,H,24,22
+16,TSV Hannover-Burgdorf,27,22,TVB 1898 Stuttgart,2022,H,27,22
+16,Bergischer HC,18,31,SG Flensburg-Handewitt,2022,A,31,18
+17,MT Melsungen,31,28,GWD Minden,2022,H,31,28
+17,TVB 1898 Stuttgart,22,28,Handball Sportverein Hamburg,2022,A,28,22
+17,ASV Hamm-Westfalen,25,30,TBV Lemgo Lippe,2022,A,30,25
+17,SC Magdeburg,31,28,HC Erlangen,2022,H,31,28
+17,FRISCH AUF! Göppingen,33,29,TSV Hannover-Burgdorf,2022,H,33,29
+17,HSG Wetzlar,23,29,Rhein-Neckar Löwen,2022,A,29,23
+17,SG Flensburg-Handewitt,36,23,THW Kiel,2022,H,36,23
+17,VfL Gummersbach,28,30,Füchse Berlin,2022,A,30,28
+17,SC DHfK Leipzig,27,32,Bergischer HC,2022,A,32,27
+18,SC Magdeburg,33,29,FRISCH AUF! Göppingen,2022,H,33,29
+18,Rhein-Neckar Löwen,37,27,ASV Hamm-Westfalen,2022,H,37,27
+18,MT Melsungen,20,19,TBV Lemgo Lippe,2022,H,20,19
+18,THW Kiel,36,29,GWD Minden,2022,H,36,29
+18,Füchse Berlin,28,22,SC DHfK Leipzig,2022,H,28,22
+18,SG Flensburg-Handewitt,34,24,HSG Wetzlar,2022,H,34,24
+18,TSV Hannover-Burgdorf,30,32,Bergischer HC,2022,A,32,30
+18,VfL Gummersbach,31,30,Handball Sportverein Hamburg,2022,H,31,30
+18,HC Erlangen,31,28,TVB 1898 Stuttgart,2022,H,31,28
+19,FRISCH AUF! Göppingen,31,25,HC Erlangen,2022,H,31,25
+19,HSG Wetzlar,24,31,TSV Hannover-Burgdorf,2022,A,31,24
+19,GWD Minden,29,40,Rhein-Neckar Löwen,2022,A,40,29
+19,TBV Lemgo Lippe,28,34,SC Magdeburg,2022,A,34,28
+19,Bergischer HC,28,27,MT Melsungen,2022,H,28,27
+19,TVB 1898 Stuttgart,30,32,SG Flensburg-Handewitt,2022,A,32,30
+19,ASV Hamm-Westfalen,29,32,Füchse Berlin,2022,A,32,29
+19,SC DHfK Leipzig,30,34,VfL Gummersbach,2022,A,34,30
+19,Handball Sportverein Hamburg,30,34,THW Kiel,2022,A,34,30
+20,VfL Gummersbach,28,29,TBV Lemgo Lippe,2022,A,29,28
+20,MT Melsungen,28,29,SC DHfK Leipzig,2022,A,29,28
+20,Füchse Berlin,29,25,HSG Wetzlar,2022,H,29,25
+20,THW Kiel,40,29,ASV Hamm-Westfalen,2022,H,40,29
+20,TSV Hannover-Burgdorf,28,24,FRISCH AUF! Göppingen,2022,H,28,24
+20,SC Magdeburg,32,28,Handball Sportverein Hamburg,2022,H,32,28
+20,Rhein-Neckar Löwen,41,27,TVB 1898 Stuttgart,2022,H,41,27
+20,SG Flensburg-Handewitt,30,17,Bergischer HC,2022,H,30,17
+20,HC Erlangen,29,28,GWD Minden,2022,H,29,28
+21,Handball Sportverein Hamburg,32,26,TSV Hannover-Burgdorf,2022,H,32,26
+21,HSG Wetzlar,28,35,HC Erlangen,2022,A,35,28
+21,ASV Hamm-Westfalen,22,21,VfL Gummersbach,2022,H,22,21
+21,FRISCH AUF! Göppingen,25,27,Rhein-Neckar Löwen,2022,A,27,25
+21,Füchse Berlin,35,25,MT Melsungen,2022,H,35,25
+21,TBV Lemgo Lippe,22,28,THW Kiel,2022,A,28,22
+21,Bergischer HC,25,26,TVB 1898 Stuttgart,2022,A,26,25
+21,SC DHfK Leipzig,33,32,SC Magdeburg,2022,H,33,32
+21,GWD Minden,27,41,SG Flensburg-Handewitt,2022,A,41,27
+22,Rhein-Neckar Löwen,34,24,HSG Wetzlar,2022,H,34,24
+22,VfL Gummersbach,31,23,MT Melsungen,2022,H,31,23
+22,Bergischer HC,34,32,GWD Minden,2022,H,34,32
+22,TVB 1898 Stuttgart,24,24,FRISCH AUF! Göppingen,2022,D,24,24
+22,SC Magdeburg,34,29,Füchse Berlin,2022,H,34,29
+22,SG Flensburg-Handewitt,34,32,Handball Sportverein Hamburg,2022,H,34,32
+22,THW Kiel,31,34,SC DHfK Leipzig,2022,A,34,31
+22,TSV Hannover-Burgdorf,30,26,ASV Hamm-Westfalen,2022,H,30,26
+22,HC Erlangen,31,31,TBV Lemgo Lippe,2022,D,31,31
+23,Füchse Berlin,38,33,VfL Gummersbach,2022,H,38,33
+23,SC DHfK Leipzig,37,29,Rhein-Neckar Löwen,2022,H,37,29
+23,GWD Minden,23,29,TVB 1898 Stuttgart,2022,A,29,23
+23,FRISCH AUF! Göppingen,27,27,SG Flensburg-Handewitt,2022,D,27,27
+23,MT Melsungen,19,23,THW Kiel,2022,A,23,19
+23,Handball Sportverein Hamburg,33,29,HC Erlangen,2022,H,33,29
+23,HSG Wetzlar,22,28,Bergischer HC,2022,A,28,22
+23,TBV Lemgo Lippe,35,30,TSV Hannover-Burgdorf,2022,H,35,30
+23,ASV Hamm-Westfalen,27,36,SC Magdeburg,2022,A,36,27
+24,Rhein-Neckar Löwen,32,35,Handball Sportverein Hamburg,2022,A,35,32
+24,Bergischer HC,34,24,ASV Hamm-Westfalen,2022,H,34,24
+24,HC Erlangen,36,32,SC DHfK Leipzig,2022,H,36,32
+24,GWD Minden,27,27,FRISCH AUF! Göppingen,2022,D,27,27
+24,THW Kiel,36,29,Füchse Berlin,2022,H,36,29
+24,SC Magdeburg,41,29,VfL Gummersbach,2022,H,41,29
+24,SG Flensburg-Handewitt,34,27,TBV Lemgo Lippe,2022,H,34,27
+24,TSV Hannover-Burgdorf,26,26,MT Melsungen,2022,D,26,26
+24,TVB 1898 Stuttgart,28,30,HSG Wetzlar,2022,A,30,28
+25,TBV Lemgo Lippe,33,30,Rhein-Neckar Löwen,2022,H,33,30
+25,HSG Wetzlar,25,27,GWD Minden,2022,A,27,25
+25,ASV Hamm-Westfalen,29,37,SG Flensburg-Handewitt,2022,A,37,29
+25,MT Melsungen,27,27,SC Magdeburg,2022,D,27,27
+25,FRISCH AUF! Göppingen,37,28,Bergischer HC,2022,H,37,28
+25,Handball Sportverein Hamburg,27,27,TVB 1898 Stuttgart,2022,D,27,27
+25,VfL Gummersbach,26,30,THW Kiel,2022,A,30,26
+25,SC DHfK Leipzig,29,31,TSV Hannover-Burgdorf,2022,A,31,29
+25,Füchse Berlin,39,30,HC Erlangen,2022,H,39,30
+26,TVB 1898 Stuttgart,23,26,MT Melsungen,2022,A,26,23
+26,FRISCH AUF! Göppingen,26,28,HSG Wetzlar,2022,A,28,26
+26,SG Flensburg-Handewitt,30,27,SC DHfK Leipzig,2022,H,30,27
+26,TSV Hannover-Burgdorf,32,33,Füchse Berlin,2022,A,33,32
+26,THW Kiel,34,34,SC Magdeburg,2022,D,34,34
+26,Rhein-Neckar Löwen,37,42,VfL Gummersbach,2022,A,42,37
+26,Bergischer HC,37,34,Handball Sportverein Hamburg,2022,H,37,34
+26,GWD Minden,36,35,TBV Lemgo Lippe,2022,H,36,35
+26,HC Erlangen,37,27,ASV Hamm-Westfalen,2022,H,37,27
+27,Handball Sportverein Hamburg,31,28,FRISCH AUF! Göppingen,2022,H,31,28
+27,MT Melsungen,31,18,HC Erlangen,2022,H,31,18
+27,SC DHfK Leipzig,25,30,TVB 1898 Stuttgart,2022,A,30,25
+27,ASV Hamm-Westfalen,31,26,GWD Minden,2022,H,31,26
+27,TBV Lemgo Lippe,38,28,Bergischer HC,2022,H,38,28
+27,THW Kiel,29,19,SG Flensburg-Handewitt,2022,H,29,19
+27,Füchse Berlin,38,24,Rhein-Neckar Löwen,2022,H,38,24
+27,SC Magdeburg,31,30,TSV Hannover-Burgdorf,2022,H,31,30
+27,VfL Gummersbach,37,30,HSG Wetzlar,2022,H,37,30
+28,FRISCH AUF! Göppingen,39,32,ASV Hamm-Westfalen,2022,H,39,32
+28,Rhein-Neckar Löwen,27,31,THW Kiel,2022,A,31,27
+28,TSV Hannover-Burgdorf,28,27,VfL Gummersbach,2022,H,28,27
+28,TVB 1898 Stuttgart,32,28,Füchse Berlin,2022,H,32,28
+28,GWD Minden,31,35,Handball Sportverein Hamburg,2022,A,35,31
+28,HC Erlangen,23,38,SC Magdeburg,2022,A,38,23
+28,HSG Wetzlar,26,24,TBV Lemgo Lippe,2022,H,26,24
+28,SG Flensburg-Handewitt,37,25,MT Melsungen,2022,H,37,25
+28,Bergischer HC,32,28,SC DHfK Leipzig,2022,H,32,28
+29,TBV Lemgo Lippe,36,33,FRISCH AUF! Göppingen,2022,H,36,33
+29,ASV Hamm-Westfalen,27,27,TVB 1898 Stuttgart,2022,D,27,27
+29,Füchse Berlin,37,33,SG Flensburg-Handewitt,2022,H,37,33
+29,SC Magdeburg,23,21,Bergischer HC,2022,H,23,21
+29,Handball Sportverein Hamburg,24,21,HSG Wetzlar,2022,H,24,21
+29,THW Kiel,33,23,TSV Hannover-Burgdorf,2022,H,33,23
+29,VfL Gummersbach,32,31,HC Erlangen,2022,H,32,31
+29,SC DHfK Leipzig,31,31,GWD Minden,2022,D,31,31
+29,MT Melsungen,25,34,Rhein-Neckar Löwen,2022,A,34,25
+30,FRISCH AUF! Göppingen,34,30,SC DHfK Leipzig,2022,H,34,30
+30,HSG Wetzlar,29,24,ASV Hamm-Westfalen,2022,H,29,24
+30,Handball Sportverein Hamburg,28,32,TBV Lemgo Lippe,2022,A,32,28
+30,TVB 1898 Stuttgart,30,37,THW Kiel,2022,A,37,30
+30,Rhein-Neckar Löwen,35,37,SC Magdeburg,2022,A,37,35
+30,SG Flensburg-Handewitt,31,26,VfL Gummersbach,2022,H,31,26
+30,Bergischer HC,34,30,Füchse Berlin,2022,H,34,30
+30,GWD Minden,21,28,MT Melsungen,2022,A,28,21
+30,HC Erlangen,33,29,TSV Hannover-Burgdorf,2022,H,33,29
+31,VfL Gummersbach,37,34,Bergischer HC,2022,H,37,34
+31,SC DHfK Leipzig,38,29,HSG Wetzlar,2022,H,38,29
+31,ASV Hamm-Westfalen,27,34,Handball Sportverein Hamburg,2022,A,34,27
+31,Füchse Berlin,42,35,GWD Minden,2022,H,42,35
+31,SC Magdeburg,30,28,SG Flensburg-Handewitt,2022,H,30,28
+31,TBV Lemgo Lippe,29,24,TVB 1898 Stuttgart,2022,H,29,24
+31,THW Kiel,35,26,HC Erlangen,2022,H,35,26
+31,TSV Hannover-Burgdorf,30,31,Rhein-Neckar Löwen,2022,A,31,30
+31,MT Melsungen,26,23,FRISCH AUF! Göppingen,2022,H,26,23
+32,Handball Sportverein Hamburg,28,31,SC DHfK Leipzig,2022,A,31,28
+32,TBV Lemgo Lippe,30,25,ASV Hamm-Westfalen,2022,H,30,25
+32,GWD Minden,30,44,SC Magdeburg,2022,A,44,30
+32,Bergischer HC,26,29,THW Kiel,2022,A,29,26
+32,FRISCH AUF! Göppingen,25,19,Füchse Berlin,2022,H,25,19
+32,HSG Wetzlar,25,27,MT Melsungen,2022,A,27,25
+32,Rhein-Neckar Löwen,40,23,HC Erlangen,2022,H,40,23
+32,SG Flensburg-Handewitt,30,35,TSV Hannover-Burgdorf,2022,A,35,30
+32,TVB 1898 Stuttgart,31,30,VfL Gummersbach,2022,H,31,30
+33,Rhein-Neckar Löwen,39,29,Bergischer HC,2022,H,39,29
+33,Füchse Berlin,36,32,Handball Sportverein Hamburg,2022,H,36,32
+33,THW Kiel,38,23,HSG Wetzlar,2022,H,38,23
+33,MT Melsungen,30,29,ASV Hamm-Westfalen,2022,H,30,29
+33,SC DHfK Leipzig,30,33,TBV Lemgo Lippe,2022,A,33,30
+33,SC Magdeburg,31,27,TVB 1898 Stuttgart,2022,H,31,27
+33,TSV Hannover-Burgdorf,32,19,GWD Minden,2022,H,32,19
+33,VfL Gummersbach,35,32,FRISCH AUF! Göppingen,2022,H,35,32
+33,HC Erlangen,28,33,SG Flensburg-Handewitt,2022,A,33,28
+34,FRISCH AUF! Göppingen,27,34,THW Kiel,2022,A,34,27
+34,Handball Sportverein Hamburg,33,28,MT Melsungen,2022,H,33,28
+34,HSG Wetzlar,30,35,SC Magdeburg,2022,A,35,30
+34,SG Flensburg-Handewitt,34,31,Rhein-Neckar Löwen,2022,H,34,31
+34,TBV Lemgo Lippe,35,32,Füchse Berlin,2022,H,35,32
+34,Bergischer HC,29,30,HC Erlangen,2022,A,30,29
+34,TVB 1898 Stuttgart,31,34,TSV Hannover-Burgdorf,2022,A,34,31
+34,GWD Minden,38,38,VfL Gummersbach,2022,D,38,38
+34,ASV Hamm-Westfalen,28,33,SC DHfK Leipzig,2022,A,33,28
+1,HC Erlangen,25,27,TSV Hannover-Burgdorf,2023,A,27,25
+1,SG Flensburg-Handewitt,37,32,HSV Hamburg,2023,H,37,32
+1,HSG Wetzlar,15,31,SC Magdeburg,2023,A,31,15
+1,ThSV Eisenach,31,30,Bergischer HC HC,2023,H,31,30
+1,Balingen-Weilstetten,25,36,THW Kiel,2023,A,36,25
+1,MT Melsungen,29,19,FRISCH AUF! Göppingen,2023,H,29,19
+1,VfL Gummersbach,30,27,TBV Lemgo Lippe,2023,H,30,27
+1,SC DHfK Leipzig,29,31,Füchse Berlin,2023,A,31,29
+1,Rhein-Neckar Löwen,32,24,TVB 1898 Stuttgart,2023,H,32,24
+2,FRISCH AUF! Göppingen,27,27,Rhein-Neckar Löwen,2023,D,27,27
+2,TSV Hannover-Burgdorf,31,30,ThSV Eisenach,2023,H,31,30
+2,THW Kiel,41,30,VfL Gummersbach,2023,H,41,30
+2,Bergischer HC HC,27,28,Balingen-Weilstetten,2023,A,28,27
+2,TVB 1898 Stuttgart,29,30,Füchse Berlin,2023,A,30,29
+2,MT Melsungen,28,27,SC DHfK Leipzig,2023,H,28,27
+2,SC Magdeburg,31,29,SG Flensburg-Handewitt,2023,H,31,29
+2,TBV Lemgo Lippe,28,27,HC Erlangen,2023,H,28,27
+2,HSV Hamburg,30,25,HSG Wetzlar,2023,H,30,25
+3,Balingen-Weilstetten,29,28,TVB 1898 Stuttgart,2023,H,29,28
+3,HC Erlangen,28,27,Bergischer HC HC,2023,H,28,27
+3,VfL Gummersbach,33,33,TSV Hannover-Burgdorf,2023,D,33,33
+3,ThSV Eisenach,27,24,FRISCH AUF! Göppingen,2023,H,27,24
+3,Füchse Berlin,31,26,SC Magdeburg,2023,H,31,26
+3,MT Melsungen,33,26,HSV Hamburg,2023,H,33,26
+3,HSG Wetzlar,24,27,TBV Lemgo Lippe,2023,A,27,24
+3,SG Flensburg-Handewitt,34,24,SC DHfK Leipzig,2023,H,34,24
+3,Rhein-Neckar Löwen,25,31,THW Kiel,2023,A,31,25
+4,Balingen-Weilstetten,25,27,HC Erlangen,2023,A,27,25
+4,FRISCH AUF! Göppingen,32,29,VfL Gummersbach,2023,H,32,29
+4,THW Kiel,30,35,MT Melsungen,2023,A,35,30
+4,SC Magdeburg,35,24,HSV Hamburg,2023,H,35,24
+4,SC DHfK Leipzig,36,30,HSG Wetzlar,2023,H,36,30
+4,TSV Hannover-Burgdorf,34,29,Rhein-Neckar Löwen,2023,H,34,29
+4,Bergischer HC HC,30,34,Füchse Berlin,2023,A,34,30
+4,TVB 1898 Stuttgart,28,22,ThSV Eisenach,2023,H,28,22
+4,TBV Lemgo Lippe,31,31,SG Flensburg-Handewitt,2023,D,31,31
+5,SG Flensburg-Handewitt,28,27,THW Kiel,2023,H,28,27
+5,VfL Gummersbach,27,33,Bergischer HC HC,2023,A,33,27
+5,MT Melsungen,35,27,TVB 1898 Stuttgart,2023,H,35,27
+5,ThSV Eisenach,28,28,Balingen-Weilstetten,2023,D,28,28
+5,HSV Hamburg,35,34,SC DHfK Leipzig,2023,H,35,34
+5,Füchse Berlin,34,33,TSV Hannover-Burgdorf,2023,H,34,33
+5,SC Magdeburg,35,28,TBV Lemgo Lippe,2023,H,35,28
+5,HSG Wetzlar,29,24,FRISCH AUF! Göppingen,2023,H,29,24
+5,Rhein-Neckar Löwen,34,24,HC Erlangen,2023,H,34,24
+6,THW Kiel,33,22,HSG Wetzlar,2023,H,33,22
+6,FRISCH AUF! Göppingen,27,32,HSV Hamburg,2023,A,32,27
+6,TSV Hannover-Burgdorf,26,26,SG Flensburg-Handewitt,2023,D,26,26
+6,Balingen-Weilstetten,26,37,Füchse Berlin,2023,A,37,26
+6,HC Erlangen,28,23,ThSV Eisenach,2023,H,28,23
+6,Bergischer HC HC,29,31,Rhein-Neckar Löwen,2023,A,31,29
+6,SC DHfK Leipzig,27,27,SC Magdeburg,2023,D,27,27
+6,TBV Lemgo Lippe,25,28,MT Melsungen,2023,A,28,25
+6,TVB 1898 Stuttgart,29,31,VfL Gummersbach,2023,A,31,29
+7,SG Flensburg-Handewitt,33,28,Bergischer HC HC,2023,H,33,28
+7,VfL Gummersbach,33,28,HC Erlangen,2023,H,33,28
+7,Rhein-Neckar Löwen,25,21,Balingen-Weilstetten,2023,H,25,21
+7,HSV Hamburg,37,33,TBV Lemgo Lippe,2023,H,37,33
+7,MT Melsungen,34,26,TSV Hannover-Burgdorf,2023,H,34,26
+7,SC Magdeburg,34,31,THW Kiel,2023,H,34,31
+7,Füchse Berlin,37,29,ThSV Eisenach,2023,H,37,29
+7,SC DHfK Leipzig,33,35,FRISCH AUF! Göppingen,2023,A,35,33
+7,HSG Wetzlar,31,31,TVB 1898 Stuttgart,2023,D,31,31
+8,HC Erlangen,27,35,Füchse Berlin,2023,A,35,27
+8,Balingen-Weilstetten,31,34,VfL Gummersbach,2023,A,34,31
+8,Bergischer HC HC,32,31,MT Melsungen,2023,H,32,31
+8,FRISCH AUF! Göppingen,26,27,SC Magdeburg,2023,A,27,26
+8,THW Kiel,34,23,HSV Hamburg,2023,H,34,23
+8,TSV Hannover-Burgdorf,30,33,HSG Wetzlar,2023,A,33,30
+8,TBV Lemgo Lippe,22,28,SC DHfK Leipzig,2023,A,28,22
+8,TVB 1898 Stuttgart,34,31,SG Flensburg-Handewitt,2023,H,34,31
+8,ThSV Eisenach,29,26,Rhein-Neckar Löwen,2023,H,29,26
+9,Füchse Berlin,38,32,Rhein-Neckar Löwen,2023,H,38,32
+9,HSV Hamburg,31,36,TVB 1898 Stuttgart,2023,A,36,31
+9,VfL Gummersbach,37,31,ThSV Eisenach,2023,H,37,31
+9,HSG Wetzlar,28,32,Bergischer HC HC,2023,A,32,28
+9,SC DHfK Leipzig,35,34,THW Kiel,2023,H,35,34
+9,SC Magdeburg,31,29,TSV Hannover-Burgdorf,2023,H,31,29
+9,SG Flensburg-Handewitt,32,28,Balingen-Weilstetten,2023,H,32,28
+9,TBV Lemgo Lippe,21,26,FRISCH AUF! Göppingen,2023,A,26,21
+9,MT Melsungen,32,25,HC Erlangen,2023,H,32,25
+10,Füchse Berlin,37,31,MT Melsungen,2023,H,37,31
+10,ThSV Eisenach,28,32,HSV Hamburg,2023,A,32,28
+10,TSV Hannover-Burgdorf,25,25,SC DHfK Leipzig,2023,D,25,25
+10,Balingen-Weilstetten,27,30,HSG Wetzlar,2023,A,30,27
+10,HC Erlangen,22,27,SG Flensburg-Handewitt,2023,A,27,22
+10,Bergischer HC HC,33,30,FRISCH AUF! Göppingen,2023,H,33,30
+10,THW Kiel,33,29,TBV Lemgo Lippe,2023,H,33,29
+10,TVB 1898 Stuttgart,25,31,SC Magdeburg,2023,A,31,25
+10,Rhein-Neckar Löwen,28,26,VfL Gummersbach,2023,H,28,26
+11,TBV Lemgo Lippe,31,25,TVB 1898 Stuttgart,2023,H,31,25
+11,HSG Wetzlar,26,31,HC Erlangen,2023,A,31,26
+11,HSV Hamburg,28,30,TSV Hannover-Burgdorf,2023,A,30,28
+11,VfL Gummersbach,30,30,Füchse Berlin,2023,D,30,30
+11,SG Flensburg-Handewitt,35,28,ThSV Eisenach,2023,H,35,28
+11,MT Melsungen,30,23,Rhein-Neckar Löwen,2023,H,30,23
+11,SC DHfK Leipzig,26,25,Balingen-Weilstetten,2023,H,26,25
+11,FRISCH AUF! Göppingen,27,34,THW Kiel,2023,A,34,27
+11,SC Magdeburg,40,28,Bergischer HC HC,2023,H,40,28
+12,TSV Hannover-Burgdorf,36,33,THW Kiel,2023,H,36,33
+12,Rhein-Neckar Löwen,32,28,SC DHfK Leipzig,2023,H,32,28
+12,ThSV Eisenach,23,27,HSG Wetzlar,2023,A,27,23
+12,TVB 1898 Stuttgart,31,29,FRISCH AUF! Göppingen,2023,H,31,29
+12,Bergischer HC HC,29,28,HSV Hamburg,2023,H,29,28
+12,VfL Gummersbach,37,31,MT Melsungen,2023,H,37,31
+12,Balingen-Weilstetten,26,30,TBV Lemgo Lippe,2023,A,30,26
+12,Füchse Berlin,32,31,SG Flensburg-Handewitt,2023,H,32,31
+12,HC Erlangen,27,32,SC Magdeburg,2023,A,32,27
+13,SC DHfK Leipzig,36,30,TVB 1898 Stuttgart,2023,H,36,30
+13,TBV Lemgo Lippe,31,28,Bergischer HC HC,2023,H,31,28
+13,FRISCH AUF! Göppingen,32,25,TSV Hannover-Burgdorf,2023,H,32,25
+13,HSV Hamburg,31,23,HC Erlangen,2023,H,31,23
+13,SG Flensburg-Handewitt,33,25,Rhein-Neckar Löwen,2023,H,33,25
+13,THW Kiel,30,26,Füchse Berlin,2023,H,30,26
+13,MT Melsungen,26,24,Balingen-Weilstetten,2023,H,26,24
+13,SC Magdeburg,38,31,ThSV Eisenach,2023,H,38,31
+13,HSG Wetzlar,33,31,VfL Gummersbach,2023,H,33,31
+14,Bergischer HC HC,31,31,SC DHfK Leipzig,2023,D,31,31
+14,ThSV Eisenach,24,27,MT Melsungen,2023,A,27,24
+14,HC Erlangen,28,26,FRISCH AUF! Göppingen,2023,H,28,26
+14,TSV Hannover-Burgdorf,34,32,TBV Lemgo Lippe,2023,H,34,32
+14,VfL Gummersbach,32,42,SG Flensburg-Handewitt,2023,A,42,32
+14,Füchse Berlin,37,31,HSV Hamburg,2023,H,37,31
+14,Balingen-Weilstetten,28,34,SC Magdeburg,2023,A,34,28
+14,Rhein-Neckar Löwen,26,21,HSG Wetzlar,2023,H,26,21
+14,TVB 1898 Stuttgart,31,36,THW Kiel,2023,A,36,31
+15,FRISCH AUF! Göppingen,32,28,Balingen-Weilstetten,2023,H,32,28
+15,TBV Lemgo Lippe,26,24,ThSV Eisenach,2023,H,26,24
+15,HSG Wetzlar,30,36,Füchse Berlin,2023,A,36,30
+15,SG Flensburg-Handewitt,34,24,MT Melsungen,2023,H,34,24
+15,TVB 1898 Stuttgart,32,28,TSV Hannover-Burgdorf,2023,H,32,28
+15,HSV Hamburg,32,36,Rhein-Neckar Löwen,2023,A,36,32
+15,SC Magdeburg,32,30,VfL Gummersbach,2023,H,32,30
+15,SC DHfK Leipzig,20,19,HC Erlangen,2023,H,20,19
+15,THW Kiel,39,30,Bergischer HC HC,2023,H,39,30
+16,VfL Gummersbach,24,23,HSV Hamburg,2023,H,24,23
+16,SG Flensburg-Handewitt,33,26,HSG Wetzlar,2023,H,33,26
+16,ThSV Eisenach,25,24,SC DHfK Leipzig,2023,H,25,24
+16,Rhein-Neckar Löwen,34,34,TBV Lemgo Lippe,2023,D,34,34
+16,HC Erlangen,27,31,THW Kiel,2023,A,31,27
+16,MT Melsungen,29,29,SC Magdeburg,2023,D,29,29
+16,Balingen-Weilstetten,25,29,TSV Hannover-Burgdorf,2023,A,29,25
+16,Bergischer HC HC,33,28,TVB 1898 Stuttgart,2023,H,33,28
+16,Füchse Berlin,29,29,FRISCH AUF! Göppingen,2023,D,29,29
+17,TVB 1898 Stuttgart,29,30,HC Erlangen,2023,A,30,29
+17,ThSV Eisenach,32,40,THW Kiel,2023,A,40,32
+17,SC Magdeburg,38,24,Rhein-Neckar Löwen,2023,H,38,24
+17,HSG Wetzlar,28,27,MT Melsungen,2023,H,28,27
+17,TBV Lemgo Lippe,29,32,Füchse Berlin,2023,A,32,29
+17,FRISCH AUF! Göppingen,32,31,SG Flensburg-Handewitt,2023,H,32,31
+17,HSV Hamburg,28,28,Balingen-Weilstetten,2023,D,28,28
+17,SC DHfK Leipzig,32,35,VfL Gummersbach,2023,A,35,32
+17,TSV Hannover-Burgdorf,37,28,Bergischer HC HC,2023,H,37,28
+18,HC Erlangen,22,22,Balingen-Weilstetten,2023,D,22,22
+18,SG Flensburg-Handewitt,34,29,TBV Lemgo Lippe,2023,H,34,29
+18,Füchse Berlin,32,27,TVB 1898 Stuttgart,2023,H,32,27
+18,HSV Hamburg,28,43,SC Magdeburg,2023,A,43,28
+18,HSG Wetzlar,30,27,SC DHfK Leipzig,2023,H,30,27
+18,FRISCH AUF! Göppingen,31,28,Bergischer HC HC,2023,H,31,28
+18,MT Melsungen,26,25,VfL Gummersbach,2023,H,26,25
+18,Rhein-Neckar Löwen,26,27,ThSV Eisenach,2023,A,27,26
+18,THW Kiel,34,20,TSV Hannover-Burgdorf,2023,H,34,20
+19,Balingen-Weilstetten,32,34,SG Flensburg-Handewitt,2023,A,34,32
+19,SC Magdeburg,31,27,FRISCH AUF! Göppingen,2023,H,31,27
+19,TSV Hannover-Burgdorf,30,34,MT Melsungen,2023,A,34,30
+19,Füchse Berlin,37,28,SC DHfK Leipzig,2023,H,37,28
+19,Bergischer HC HC,23,28,HSG Wetzlar,2023,A,28,23
+19,ThSV Eisenach,28,26,HC Erlangen,2023,H,28,26
+19,TVB 1898 Stuttgart,32,31,Rhein-Neckar Löwen,2023,H,32,31
+19,TBV Lemgo Lippe,34,34,HSV Hamburg,2023,D,34,34
+19,VfL Gummersbach,40,29,THW Kiel,2023,H,40,29
+20,FRISCH AUF! Göppingen,25,25,TVB 1898 Stuttgart,2023,D,25,25
+20,TSV Hannover-Burgdorf,32,29,VfL Gummersbach,2023,H,32,29
+20,HSG Wetzlar,31,30,ThSV Eisenach,2023,H,31,30
+20,THW Kiel,26,33,SC Magdeburg,2023,A,33,26
+20,HC Erlangen,26,25,TBV Lemgo Lippe,2023,H,26,25
+20,SC DHfK Leipzig,32,27,MT Melsungen,2023,H,32,27
+20,Füchse Berlin,35,34,Balingen-Weilstetten,2023,H,35,34
+20,Rhein-Neckar Löwen,35,29,Bergischer HC HC,2023,H,35,29
+20,HSV Hamburg,30,41,SG Flensburg-Handewitt,2023,A,41,30
+21,ThSV Eisenach,24,26,VfL Gummersbach,2023,A,26,24
+21,Balingen-Weilstetten,30,29,FRISCH AUF! Göppingen,2023,H,30,29
+21,SC Magdeburg,39,24,MT Melsungen,2023,H,39,24
+21,TBV Lemgo Lippe,33,25,Rhein-Neckar Löwen,2023,H,33,25
+21,SG Flensburg-Handewitt,32,25,HC Erlangen,2023,H,32,25
+21,Bergischer HC HC,25,29,THW Kiel,2023,A,29,25
+21,HSV Hamburg,30,32,Füchse Berlin,2023,A,32,30
+21,TVB 1898 Stuttgart,30,25,HSG Wetzlar,2023,H,30,25
+21,SC DHfK Leipzig,26,27,TSV Hannover-Burgdorf,2023,A,27,26
+22,FRISCH AUF! Göppingen,35,31,ThSV Eisenach,2023,H,35,31
+22,HSG Wetzlar,16,21,Balingen-Weilstetten,2023,A,21,16
+22,HC Erlangen,30,28,HSV Hamburg,2023,H,30,28
+22,MT Melsungen,31,26,Bergischer HC HC,2023,H,31,26
+22,Füchse Berlin,30,26,TBV Lemgo Lippe,2023,H,30,26
+22,Rhein-Neckar Löwen,26,35,SG Flensburg-Handewitt,2023,A,35,26
+22,TSV Hannover-Burgdorf,28,27,SC Magdeburg,2023,H,28,27
+22,THW Kiel,39,36,TVB 1898 Stuttgart,2023,H,39,36
+22,VfL Gummersbach,30,29,SC DHfK Leipzig,2023,H,30,29
+23,TVB 1898 Stuttgart,33,31,MT Melsungen,2023,H,33,31
+23,TBV Lemgo Lippe,23,26,VfL Gummersbach,2023,A,26,23
+23,HC Erlangen,26,27,HSG Wetzlar,2023,A,27,26
+23,Bergischer HC HC,26,29,TSV Hannover-Burgdorf,2023,A,29,26
+23,Balingen-Weilstetten,31,33,Rhein-Neckar Löwen,2023,A,33,31
+23,SG Flensburg-Handewitt,31,31,Füchse Berlin,2023,D,31,31
+23,HSV Hamburg,33,31,FRISCH AUF! Göppingen,2023,H,33,31
+23,THW Kiel,31,27,ThSV Eisenach,2023,H,31,27
+23,SC Magdeburg,30,28,SC DHfK Leipzig,2024,H,30,28
+24,TSV Hannover-Burgdorf,33,30,TVB 1898 Stuttgart,2023,H,33,30
+24,SC DHfK Leipzig,33,22,Bergischer HC HC,2023,H,33,22
+24,MT Melsungen,27,26,ThSV Eisenach,2023,H,27,26
+24,Rhein-Neckar Löwen,34,36,HSV Hamburg,2023,A,36,34
+24,HSG Wetzlar,30,31,SG Flensburg-Handewitt,2023,A,31,30
+24,THW Kiel,36,29,Balingen-Weilstetten,2023,H,36,29
+24,VfL Gummersbach,30,38,SC Magdeburg,2023,A,38,30
+24,Füchse Berlin,39,32,HC Erlangen,2023,H,39,32
+24,FRISCH AUF! Göppingen,26,32,TBV Lemgo Lippe,2023,A,32,26
+25,TBV Lemgo Lippe,31,23,HSG Wetzlar,2023,H,31,23
+25,TVB 1898 Stuttgart,25,27,SC DHfK Leipzig,2023,A,27,25
+25,Balingen-Weilstetten,22,25,MT Melsungen,2023,A,25,22
+25,ThSV Eisenach,31,31,TSV Hannover-Burgdorf,2023,D,31,31
+25,HC Erlangen,28,23,Rhein-Neckar Löwen,2023,H,28,23
+25,SG Flensburg-Handewitt,35,30,FRISCH AUF! Göppingen,2023,H,35,30
+25,SC Magdeburg,31,28,Füchse Berlin,2023,H,31,28
+25,Bergischer HC HC,24,31,VfL Gummersbach,2023,A,31,24
+25,HSV Hamburg,28,28,THW Kiel,2023,D,28,28
+26,TSV Hannover-Burgdorf,35,26,Balingen-Weilstetten,2023,H,35,26
+26,Rhein-Neckar Löwen,28,36,Füchse Berlin,2023,A,36,28
+26,MT Melsungen,26,25,TBV Lemgo Lippe,2023,H,26,25
+26,THW Kiel,26,33,SG Flensburg-Handewitt,2023,A,33,26
+26,HSG Wetzlar,25,27,HSV Hamburg,2023,A,27,25
+26,SC DHfK Leipzig,29,31,ThSV Eisenach,2023,A,31,29
+26,VfL Gummersbach,35,27,TVB 1898 Stuttgart,2023,H,35,27
+26,FRISCH AUF! Göppingen,32,29,HC Erlangen,2023,H,32,29
+26,Bergischer HC HC,27,30,SC Magdeburg,2023,A,30,27
+27,TVB 1898 Stuttgart,27,26,Bergischer HC HC,2023,H,27,26
+27,Balingen-Weilstetten,17,25,SC DHfK Leipzig,2023,A,25,17
+27,SG Flensburg-Handewitt,31,28,TSV Hannover-Burgdorf,2023,H,31,28
+27,HC Erlangen,31,34,VfL Gummersbach,2023,A,34,31
+27,ThSV Eisenach,25,35,SC Magdeburg,2023,A,35,25
+27,Füchse Berlin,32,30,HSG Wetzlar,2023,H,32,30
+27,Rhein-Neckar Löwen,33,29,FRISCH AUF! Göppingen,2023,H,33,29
+27,TBV Lemgo Lippe,27,28,THW Kiel,2023,A,28,27
+27,HSV Hamburg,29,22,MT Melsungen,2023,H,29,22
+28,FRISCH AUF! Göppingen,27,32,Füchse Berlin,2023,A,32,27
+28,VfL Gummersbach,33,25,Balingen-Weilstetten,2023,H,33,25
+28,TSV Hannover-Burgdorf,25,26,HSV Hamburg,2023,A,26,25
+28,THW Kiel,31,27,HC Erlangen,2023,H,31,27
+28,MT Melsungen,25,25,SG Flensburg-Handewitt,2023,D,25,25
+28,Bergischer HC HC,27,30,ThSV Eisenach,2023,A,30,27
+28,SC DHfK Leipzig,29,28,TBV Lemgo Lippe,2023,H,29,28
+28,SC Magdeburg,40,31,TVB 1898 Stuttgart,2023,H,40,31
+28,HSG Wetzlar,30,27,Rhein-Neckar Löwen,2023,H,30,27
+29,FRISCH AUF! Göppingen,32,27,HSG Wetzlar,2023,H,32,27
+29,TBV Lemgo Lippe,28,23,TSV Hannover-Burgdorf,2023,H,28,23
+29,Rhein-Neckar Löwen,23,28,MT Melsungen,2023,A,28,23
+29,Balingen-Weilstetten,21,25,Bergischer HC HC,2023,A,25,21
+29,SG Flensburg-Handewitt,29,32,SC Magdeburg,2023,A,32,29
+29,ThSV Eisenach,33,28,TVB 1898 Stuttgart,2023,H,33,28
+29,Füchse Berlin,32,32,THW Kiel,2023,D,32,32
+29,HSV Hamburg,33,33,VfL Gummersbach,2023,D,33,33
+29,HC Erlangen,26,29,SC DHfK Leipzig,2023,A,29,26
+30,SC DHfK Leipzig,32,35,SG Flensburg-Handewitt,2023,A,35,32
+30,ThSV Eisenach,25,30,TBV Lemgo Lippe,2023,A,30,25
+30,TSV Hannover-Burgdorf,33,26,FRISCH AUF! Göppingen,2023,H,33,26
+30,VfL Gummersbach,35,28,HSG Wetzlar,2023,H,35,28
+30,MT Melsungen,30,28,Füchse Berlin,2023,H,30,28
+30,TVB 1898 Stuttgart,35,26,HSV Hamburg,2023,H,35,26
+30,Bergischer HC HC,28,25,HC Erlangen,2023,H,28,25
+30,THW Kiel,26,30,Rhein-Neckar Löwen,2023,A,30,26
+30,SC Magdeburg,43,29,Balingen-Weilstetten,2023,H,43,29
+31,HC Erlangen,31,31,MT Melsungen,2023,D,31,31
+31,HSV Hamburg,32,30,Bergischer HC HC,2023,H,32,30
+31,FRISCH AUF! Göppingen,27,30,SC DHfK Leipzig,2023,A,30,27
+31,Balingen-Weilstetten,21,34,ThSV Eisenach,2023,A,34,21
+31,SG Flensburg-Handewitt,39,31,TVB 1898 Stuttgart,2023,H,39,31
+31,Rhein-Neckar Löwen,27,29,TSV Hannover-Burgdorf,2023,A,29,27
+31,Füchse Berlin,29,26,VfL Gummersbach,2023,H,29,26
+31,HSG Wetzlar,27,29,THW Kiel,2023,A,29,27
+31,TBV Lemgo Lippe,28,34,SC Magdeburg,2023,A,34,28
+32,SC Magdeburg,27,22,HC Erlangen,2023,H,27,22
+32,MT Melsungen,21,23,HSG Wetzlar,2023,A,23,21
+32,TVB 1898 Stuttgart,30,27,Balingen-Weilstetten,2023,H,30,27
+32,SC DHfK Leipzig,39,27,HSV Hamburg,2023,H,39,27
+32,TSV Hannover-Burgdorf,25,28,Füchse Berlin,2023,A,28,25
+32,ThSV Eisenach,28,27,SG Flensburg-Handewitt,2023,H,28,27
+32,VfL Gummersbach,31,26,Rhein-Neckar Löwen,2023,H,31,26
+32,Bergischer HC HC,31,31,TBV Lemgo Lippe,2023,D,31,31
+32,THW Kiel,32,27,FRISCH AUF! Göppingen,2023,H,32,27
+33,THW Kiel,37,28,SC DHfK Leipzig,2023,H,37,28
+33,TBV Lemgo Lippe,37,27,Balingen-Weilstetten,2023,H,37,27
+33,HSG Wetzlar,32,32,TSV Hannover-Burgdorf,2023,D,32,32
+33,HSV Hamburg,33,29,ThSV Eisenach,2023,H,33,29
+33,HC Erlangen,26,23,TVB 1898 Stuttgart,2023,H,26,23
+33,FRISCH AUF! Göppingen,22,32,MT Melsungen,2023,A,32,22
+33,SG Flensburg-Handewitt,28,34,VfL Gummersbach,2023,A,34,28
+33,Rhein-Neckar Löwen,21,34,SC Magdeburg,2023,A,34,21
+33,Füchse Berlin,29,30,Bergischer HC HC,2023,A,30,29
+34,SC Magdeburg,37,34,HSG Wetzlar,2023,H,37,34
+34,MT Melsungen,23,23,THW Kiel,2023,D,23,23
+34,TVB 1898 Stuttgart,29,27,TBV Lemgo Lippe,2023,H,29,27
+34,SC DHfK Leipzig,29,24,Rhein-Neckar Löwen,2023,H,29,24
+34,TSV Hannover-Burgdorf,27,23,HC Erlangen,2023,H,27,23
+34,Bergischer HC HC,30,40,SG Flensburg-Handewitt,2023,A,40,30
+34,ThSV Eisenach,27,31,Füchse Berlin,2023,A,31,27
+34,VfL Gummersbach,33,32,FRISCH AUF! Göppingen,2023,H,33,32
+34,Balingen-Weilstetten,37,30,HSV Hamburg,2023,H,37,30
+1,THW Kiel,33,24,Balingen-Weilstetten,2021,A,33,24
+1,TBV Lemgo Lippe,26,26,MT Melsungen,2021,A,26,26
+1,GWD Minden,18,31,SG Flensburg-Handewitt,2021,A,31,18
+1,HSV Hamburg,27,28,FRISCH AUF! Göppingen,2021,A,28,27
+1,HC Erlangen,19,15,SC DHfK Leipzig,2021,A,19,15
+1,TSV Hannover-Burgdorf,24,28,Rhein-Neckar Löwen,2021,A,28,24
+1,SC Magdeburg,33,29,TVB 1898 Stuttgart,2021,A,33,29
+1,Nettelstedt-Lubbecke,20,24,Bergischer HC HC,2021,A,24,20
+1,Füchse Berlin,29,24,HSG Wetzlar,2021,A,29,24
+2,Balingen-Weilstetten,27,21,GWD Minden,2021,H,27,21
+2,SG Flensburg-Handewitt,27,27,HC Erlangen,2021,D,27,27
+2,MT Melsungen,26,33,THW Kiel,2021,A,33,26
+2,Rhein-Neckar Löwen,25,28,SC Magdeburg,2021,A,28,25
+2,HSG Wetzlar,27,25,TBV Lemgo Lippe,2021,H,27,25
+2,Bergischer HC HC,31,26,HSV Hamburg,2021,H,31,26
+2,FRISCH AUF! Göppingen,27,24,Nettelstedt-Lubbecke,2021,H,27,24
+2,SC DHfK Leipzig,25,30,Füchse Berlin,2021,A,30,25
+2,TVB 1898 Stuttgart,22,34,TSV Hannover-Burgdorf,2021,A,34,22
+3,SC Magdeburg,30,26,HSG Wetzlar,2021,H,30,26
+3,MT Melsungen,25,33,Füchse Berlin,2021,A,33,25
+3,TVB 1898 Stuttgart,27,34,FRISCH AUF! Göppingen,2021,A,34,27
+3,TBV Lemgo Lippe,26,27,SC DHfK Leipzig,2021,A,27,26
+3,HC Erlangen,30,22,GWD Minden,2021,H,30,22
+3,THW Kiel,33,23,SG Flensburg-Handewitt,2021,H,33,23
+3,TSV Hannover-Burgdorf,28,20,Bergischer HC HC,2021,H,28,20
+3,Nettelstedt-Lubbecke,33,27,Balingen-Weilstetten,2021,H,33,27
+3,HSV Hamburg,32,27,Rhein-Neckar Löwen,2021,H,32,27
+4,Bergischer HC HC,26,25,TVB 1898 Stuttgart,2021,H,26,25
+4,SC DHfK Leipzig,27,27,HSV Hamburg,2021,D,27,27
+4,GWD Minden,25,31,Füchse Berlin,2021,A,31,25
+4,Balingen-Weilstetten,17,28,SC Magdeburg,2021,A,28,17
+4,HC Erlangen,20,30,THW Kiel,2021,A,30,20
+4,MT Melsungen,23,22,Nettelstedt-Lubbecke,2021,H,23,22
+4,Rhein-Neckar Löwen,37,32,FRISCH AUF! Göppingen,2021,H,37,32
+4,HSG Wetzlar,38,16,TSV Hannover-Burgdorf,2021,H,38,16
+4,SG Flensburg-Handewitt,27,19,TBV Lemgo Lippe,2021,H,27,19
+5,SC Magdeburg,30,28,SC DHfK Leipzig,2021,H,30,28
+5,HSV Hamburg,31,23,HSG Wetzlar,2021,H,31,23
+5,TBV Lemgo Lippe,38,28,Balingen-Weilstetten,2021,H,38,28
+5,FRISCH AUF! Göppingen,27,24,Bergischer HC HC,2021,H,27,24
+5,Nettelstedt-Lubbecke,17,34,SG Flensburg-Handewitt,2021,A,34,17
+5,TSV Hannover-Burgdorf,23,25,MT Melsungen,2021,A,25,23
+5,THW Kiel,34,25,GWD Minden,2021,H,34,25
+5,TVB 1898 Stuttgart,35,30,Rhein-Neckar Löwen,2021,H,35,30
+5,Füchse Berlin,35,30,HC Erlangen,2021,H,35,30
+6,MT Melsungen,24,27,SC Magdeburg,2021,A,27,24
+6,Balingen-Weilstetten,28,26,TSV Hannover-Burgdorf,2021,H,28,26
+6,HSG Wetzlar,28,28,FRISCH AUF! Göppingen,2021,D,28,28
+6,GWD Minden,18,23,Nettelstedt-Lubbecke,2021,A,23,18
+6,HC Erlangen,24,28,TBV Lemgo Lippe,2021,A,28,24
+6,Füchse Berlin,28,28,THW Kiel,2021,D,28,28
+6,HSV Hamburg,27,33,SG Flensburg-Handewitt,2021,A,33,27
+6,SC DHfK Leipzig,33,24,TVB 1898 Stuttgart,2021,H,33,24
+6,Bergischer HC HC,25,25,Rhein-Neckar Löwen,2021,D,25,25
+7,FRISCH AUF! Göppingen,26,26,MT Melsungen,2021,D,26,26
+7,TSV Hannover-Burgdorf,22,25,Füchse Berlin,2021,A,25,22
+7,Nettelstedt-Lubbecke,20,21,HC Erlangen,2021,A,21,20
+7,SC Magdeburg,33,28,SG Flensburg-Handewitt,2021,H,33,28
+7,TVB 1898 Stuttgart,27,26,Balingen-Weilstetten,2021,H,27,26
+7,HSV Hamburg,31,27,GWD Minden,2021,H,31,27
+7,TBV Lemgo Lippe,21,21,THW Kiel,2021,D,21,21
+7,Bergischer HC HC,17,27,HSG Wetzlar,2021,A,27,17
+7,Rhein-Neckar Löwen,28,28,SC DHfK Leipzig,2021,D,28,28
+8,HC Erlangen,31,35,TSV Hannover-Burgdorf,2021,A,35,31
+8,SC DHfK Leipzig,29,20,FRISCH AUF! Göppingen,2021,H,29,20
+8,MT Melsungen,26,24,Bergischer HC HC,2021,H,26,24
+8,Balingen-Weilstetten,23,28,HSV Hamburg,2021,A,28,23
+8,HSG Wetzlar,29,30,Rhein-Neckar Löwen,2021,A,30,29
+8,SG Flensburg-Handewitt,30,29,TVB 1898 Stuttgart,2021,H,30,29
+8,Füchse Berlin,30,22,Nettelstedt-Lubbecke,2021,H,30,22
+8,GWD Minden,29,32,TBV Lemgo Lippe,2021,A,32,29
+8,THW Kiel,27,29,SC Magdeburg,2021,A,29,27
+9,TSV Hannover-Burgdorf,30,29,GWD Minden,2021,H,30,29
+9,Rhein-Neckar Löwen,34,23,Balingen-Weilstetten,2021,H,34,23
+9,Bergischer HC HC,30,20,SC DHfK Leipzig,2021,H,30,20
+9,Nettelstedt-Lubbecke,29,25,THW Kiel,2021,H,29,25
+9,FRISCH AUF! Göppingen,30,30,SG Flensburg-Handewitt,2021,D,30,30
+9,TBV Lemgo Lippe,27,28,Füchse Berlin,2021,A,28,27
+9,SC Magdeburg,28,27,HC Erlangen,2021,H,28,27
+9,HSG Wetzlar,35,34,TVB 1898 Stuttgart,2021,H,35,34
+9,HSV Hamburg,26,25,MT Melsungen,2021,H,26,25
+10,TVB 1898 Stuttgart,26,34,HSV Hamburg,2021,A,34,26
+10,Rhein-Neckar Löwen,30,33,TBV Lemgo Lippe,2021,A,33,30
+10,HSG Wetzlar,29,25,Nettelstedt-Lubbecke,2021,H,29,25
+10,MT Melsungen,25,29,GWD Minden,2021,A,29,25
+10,FRISCH AUF! Göppingen,24,25,SC Magdeburg,2021,A,25,24
+10,SG Flensburg-Handewitt,28,23,Füchse Berlin,2021,H,28,23
+10,THW Kiel,24,23,Bergischer HC HC,2021,H,24,23
+10,SC DHfK Leipzig,32,25,TSV Hannover-Burgdorf,2021,H,32,25
+10,Balingen-Weilstetten,23,25,HC Erlangen,2021,A,25,23
+11,MT Melsungen,29,23,TVB 1898 Stuttgart,2021,H,29,23
+11,GWD Minden,30,33,FRISCH AUF! Göppingen,2021,A,33,30
+11,Nettelstedt-Lubbecke,26,28,TBV Lemgo Lippe,2021,A,28,26
+11,Füchse Berlin,29,33,SC Magdeburg,2021,A,33,29
+11,SG Flensburg-Handewitt,31,26,Rhein-Neckar Löwen,2021,H,31,26
+11,THW Kiel,31,24,TSV Hannover-Burgdorf,2021,H,31,24
+11,HC Erlangen,23,22,HSV Hamburg,2021,H,23,22
+11,SC DHfK Leipzig,30,26,HSG Wetzlar,2021,H,30,26
+11,Balingen-Weilstetten,30,28,Bergischer HC HC,2021,H,30,28
+12,Bergischer HC HC,25,25,HC Erlangen,2021,D,25,25
+12,Rhein-Neckar Löwen,31,27,GWD Minden,2021,H,31,27
+12,HSG Wetzlar,33,21,Balingen-Weilstetten,2021,H,33,21
+12,HSV Hamburg,28,28,TBV Lemgo Lippe,2021,D,28,28
+12,TVB 1898 Stuttgart,32,32,Füchse Berlin,2021,D,32,32
+12,FRISCH AUF! Göppingen,26,38,THW Kiel,2021,A,38,26
+12,SC DHfK Leipzig,22,26,MT Melsungen,2021,A,26,22
+12,TSV Hannover-Burgdorf,26,31,SG Flensburg-Handewitt,2021,A,31,26
+12,SC Magdeburg,38,20,Nettelstedt-Lubbecke,2021,H,38,20
+13,HC Erlangen,27,32,TVB 1898 Stuttgart,2021,A,32,27
+13,MT Melsungen,25,24,Rhein-Neckar Löwen,2021,H,25,24
+13,Nettelstedt-Lubbecke,29,27,HSV Hamburg,2021,H,29,27
+13,Balingen-Weilstetten,26,30,FRISCH AUF! Göppingen,2021,A,30,26
+13,Füchse Berlin,32,17,Bergischer HC HC,2021,H,32,17
+13,THW Kiel,32,28,SC DHfK Leipzig,2021,H,32,28
+13,TBV Lemgo Lippe,31,33,TSV Hannover-Burgdorf,2021,A,33,31
+13,GWD Minden,26,31,SC Magdeburg,2021,A,31,26
+13,SG Flensburg-Handewitt,27,25,HSG Wetzlar,2021,H,27,25
+14,TVB 1898 Stuttgart,35,31,GWD Minden,2021,H,35,31
+14,SC DHfK Leipzig,31,24,Balingen-Weilstetten,2021,H,31,24
+14,TSV Hannover-Burgdorf,22,21,Nettelstedt-Lubbecke,2021,H,22,21
+14,HSV Hamburg,23,32,THW Kiel,2021,A,32,23
+14,FRISCH AUF! Göppingen,34,25,HC Erlangen,2021,H,34,25
+14,SC Magdeburg,29,25,TBV Lemgo Lippe,2021,H,29,25
+14,HSG Wetzlar,31,28,MT Melsungen,2021,H,31,28
+14,Bergischer HC HC,24,29,SG Flensburg-Handewitt,2021,A,29,24
+14,Rhein-Neckar Löwen,24,29,Füchse Berlin,2021,A,29,24
+15,HC Erlangen,24,27,HSG Wetzlar,2021,A,27,24
+15,GWD Minden,25,21,Bergischer HC HC,2021,H,25,21
+15,Nettelstedt-Lubbecke,27,23,TVB 1898 Stuttgart,2021,H,27,23
+15,TSV Hannover-Burgdorf,27,31,SC Magdeburg,2021,A,31,27
+15,Balingen-Weilstetten,25,34,MT Melsungen,2021,A,34,25
+15,THW Kiel,32,29,Rhein-Neckar Löwen,2021,H,32,29
+15,Füchse Berlin,34,30,HSV Hamburg,2021,H,34,30
+15,TBV Lemgo Lippe,34,26,FRISCH AUF! Göppingen,2021,H,34,26
+15,SG Flensburg-Handewitt,31,21,SC DHfK Leipzig,2021,H,31,21
+16,Rhein-Neckar Löwen,35,25,Nettelstedt-Lubbecke,2021,H,35,25
+16,TVB 1898 Stuttgart,37,40,TBV Lemgo Lippe,2021,A,40,37
+16,HSV Hamburg,25,23,TSV Hannover-Burgdorf,2021,H,25,23
+16,Bergischer HC HC,24,27,SC Magdeburg,2021,A,27,24
+16,FRISCH AUF! Göppingen,24,31,Füchse Berlin,2021,A,31,24
+16,SC DHfK Leipzig,25,26,GWD Minden,2021,A,26,25
+16,MT Melsungen,30,28,HC Erlangen,2021,H,30,28
+16,HSG Wetzlar,29,27,THW Kiel,2021,H,29,27
+16,Balingen-Weilstetten,23,23,SG Flensburg-Handewitt,2021,D,23,23
+17,TSV Hannover-Burgdorf,32,34,FRISCH AUF! Göppingen,2021,A,34,32
+17,THW Kiel,35,31,TVB 1898 Stuttgart,2021,H,35,31
+17,GWD Minden,23,24,HSG Wetzlar,2021,A,24,23
+17,SG Flensburg-Handewitt,27,24,MT Melsungen,2021,H,27,24
+17,HC Erlangen,36,26,Rhein-Neckar Löwen,2021,H,36,26
+17,TBV Lemgo Lippe,27,27,Bergischer HC HC,2021,D,27,27
+17,SC Magdeburg,34,26,HSV Hamburg,2021,H,34,26
+17,Nettelstedt-Lubbecke,23,28,SC DHfK Leipzig,2021,A,28,23
+17,Füchse Berlin,26,26,Balingen-Weilstetten,2021,D,26,26
+18,SG Flensburg-Handewitt,30,27,SC Magdeburg,2021,H,30,27
+18,FRISCH AUF! Göppingen,34,32,TVB 1898 Stuttgart,2021,H,34,32
+18,GWD Minden,23,23,Balingen-Weilstetten,2021,D,23,23
+18,THW Kiel,32,19,TBV Lemgo Lippe,2021,H,32,19
+18,Rhein-Neckar Löwen,25,31,TSV Hannover-Burgdorf,2021,A,31,25
+18,Füchse Berlin,28,29,MT Melsungen,2021,A,29,28
+18,HSV Hamburg,26,27,Bergischer HC HC,2021,A,27,26
+18,Nettelstedt-Lubbecke,25,28,HSG Wetzlar,2021,A,28,25
+18,SC DHfK Leipzig,24,16,HC Erlangen,2021,H,24,16
+19,Balingen-Weilstetten,25,29,SC DHfK Leipzig,2021,A,29,25
+19,Bergischer HC HC,33,27,FRISCH AUF! Göppingen,2021,H,33,27
+19,SC Magdeburg,28,19,GWD Minden,2021,H,28,19
+19,HSG Wetzlar,29,29,SG Flensburg-Handewitt,2021,D,29,29
+19,TVB 1898 Stuttgart,29,42,THW Kiel,2021,A,42,29
+19,Füchse Berlin,23,20,Rhein-Neckar Löwen,2021,H,23,20
+19,TBV Lemgo Lippe,27,22,Nettelstedt-Lubbecke,2021,H,27,22
+19,TSV Hannover-Burgdorf,29,27,HSV Hamburg,2021,H,29,27
+19,HC Erlangen,32,31,MT Melsungen,2021,H,32,31
+20,SG Flensburg-Handewitt,30,20,TSV Hannover-Burgdorf,2021,H,30,20
+20,MT Melsungen,28,21,Balingen-Weilstetten,2021,H,28,21
+20,Rhein-Neckar Löwen,26,26,HC Erlangen,2021,D,26,26
+20,Nettelstedt-Lubbecke,20,30,SC Magdeburg,2021,A,30,20
+20,HSV Hamburg,27,30,Füchse Berlin,2021,A,30,27
+20,Bergischer HC HC,24,26,THW Kiel,2021,A,26,24
+20,FRISCH AUF! Göppingen,33,26,HSG Wetzlar,2021,H,33,26
+20,GWD Minden,23,23,SC DHfK Leipzig,2021,D,23,23
+20,TBV Lemgo Lippe,33,30,TVB 1898 Stuttgart,2021,H,33,30
+21,SC Magdeburg,37,26,FRISCH AUF! Göppingen,2021,H,37,26
+21,GWD Minden,22,26,MT Melsungen,2021,A,26,22
+21,HC Erlangen,26,30,SG Flensburg-Handewitt,2021,A,30,26
+21,HSG Wetzlar,26,25,HSV Hamburg,2021,H,26,25
+21,TSV Hannover-Burgdorf,26,29,THW Kiel,2021,A,29,26
+21,Bergischer HC HC,32,27,TBV Lemgo Lippe,2021,H,32,27
+21,Füchse Berlin,29,22,TVB 1898 Stuttgart,2021,H,29,22
+21,Balingen-Weilstetten,26,21,Nettelstedt-Lubbecke,2021,H,26,21
+21,SC DHfK Leipzig,28,31,Rhein-Neckar Löwen,2021,A,31,28
+22,MT Melsungen,22,22,SC DHfK Leipzig,2021,D,22,22
+22,TVB 1898 Stuttgart,27,26,Bergischer HC HC,2021,H,27,26
+22,TBV Lemgo Lippe,25,44,SC Magdeburg,2021,A,44,25
+22,Rhein-Neckar Löwen,27,30,HSG Wetzlar,2021,A,30,27
+22,Nettelstedt-Lubbecke,26,32,Füchse Berlin,2021,A,32,26
+22,SG Flensburg-Handewitt,31,31,GWD Minden,2021,D,31,31
+22,THW Kiel,34,24,HC Erlangen,2021,H,34,24
+22,HSV Hamburg,29,34,Balingen-Weilstetten,2021,A,34,29
+22,FRISCH AUF! Göppingen,31,25,TSV Hannover-Burgdorf,2021,H,31,25
+23,MT Melsungen,26,22,HSV Hamburg,2021,H,26,22
+23,GWD Minden,31,33,Rhein-Neckar Löwen,2021,A,33,31
+23,TVB 1898 Stuttgart,26,26,HSG Wetzlar,2021,D,26,26
+23,TSV Hannover-Burgdorf,27,31,TBV Lemgo Lippe,2021,A,31,27
+23,SC Magdeburg,38,25,Bergischer HC HC,2021,H,38,25
+23,Balingen-Weilstetten,25,31,THW Kiel,2021,A,31,25
+23,HC Erlangen,29,22,Nettelstedt-Lubbecke,2021,H,29,22
+23,SC DHfK Leipzig,25,24,SG Flensburg-Handewitt,2021,H,25,24
+23,Füchse Berlin,37,31,FRISCH AUF! Göppingen,2021,H,37,31
+24,Bergischer HC HC,25,23,TSV Hannover-Burgdorf,2021,H,25,23
+24,HSV Hamburg,30,29,HC Erlangen,2021,H,30,29
+24,Nettelstedt-Lubbecke,19,21,GWD Minden,2021,A,21,19
+24,FRISCH AUF! Göppingen,29,28,SC DHfK Leipzig,2021,H,29,28
+24,THW Kiel,27,31,Füchse Berlin,2021,A,31,27
+24,TBV Lemgo Lippe,29,27,HSG Wetzlar,2021,H,29,27
+24,Rhein-Neckar Löwen,29,26,MT Melsungen,2021,H,29,26
+24,TVB 1898 Stuttgart,27,30,SC Magdeburg,2021,A,30,27
+24,SG Flensburg-Handewitt,35,21,Balingen-Weilstetten,2021,H,35,21
+25,HC Erlangen,23,25,FRISCH AUF! Göppingen,2021,A,25,23
+25,Füchse Berlin,29,24,TBV Lemgo Lippe,2021,H,29,24
+25,TSV Hannover-Burgdorf,33,23,TVB 1898 Stuttgart,2021,H,33,23
+25,Balingen-Weilstetten,22,31,Rhein-Neckar Löwen,2021,A,31,22
+25,HSG Wetzlar,23,27,Bergischer HC HC,2021,A,27,23
+25,SC Magdeburg,25,30,THW Kiel,2021,A,30,25
+25,MT Melsungen,26,32,SG Flensburg-Handewitt,2021,A,32,26
+25,GWD Minden,23,27,HSV Hamburg,2021,A,27,23
+25,SC DHfK Leipzig,25,21,Nettelstedt-Lubbecke,2021,H,25,21
+26,Bergischer HC HC,23,28,Füchse Berlin,2021,A,28,23
+26,SC Magdeburg,30,22,TSV Hannover-Burgdorf,2021,H,30,22
+26,TVB 1898 Stuttgart,34,29,HC Erlangen,2021,H,34,29
+26,Rhein-Neckar Löwen,29,29,SG Flensburg-Handewitt,2021,D,29,29
+26,TBV Lemgo Lippe,20,32,GWD Minden,2021,A,32,20
+26,FRISCH AUF! Göppingen,27,28,Balingen-Weilstetten,2021,A,28,27
+26,HSV Hamburg,24,33,SC DHfK Leipzig,2021,A,33,24
+26,Nettelstedt-Lubbecke,23,31,MT Melsungen,2021,A,31,23
+26,THW Kiel,27,24,HSG Wetzlar,2021,H,27,24
+27,SC DHfK Leipzig,29,25,TBV Lemgo Lippe,2021,H,29,25
+27,MT Melsungen,24,26,FRISCH AUF! Göppingen,2021,A,26,24
+27,Rhein-Neckar Löwen,28,34,HSV Hamburg,2021,A,34,28
+27,HC Erlangen,30,23,Bergischer HC HC,2021,H,30,23
+27,Balingen-Weilstetten,25,28,TVB 1898 Stuttgart,2021,A,28,25
+27,HSG Wetzlar,26,29,SC Magdeburg,2021,A,29,26
+27,SG Flensburg-Handewitt,30,19,Nettelstedt-Lubbecke,2021,H,30,19
+27,Füchse Berlin,32,32,TSV Hannover-Burgdorf,2021,D,32,32
+27,GWD Minden,27,30,THW Kiel,2021,A,30,27
+28,Bergischer HC HC,29,21,Balingen-Weilstetten,2021,H,29,21
+28,FRISCH AUF! Göppingen,33,22,GWD Minden,2021,H,33,22
+28,TBV Lemgo Lippe,27,33,HC Erlangen,2021,A,33,27
+28,SG Flensburg-Handewitt,33,23,HSV Hamburg,2021,H,33,23
+28,SC Magdeburg,28,27,Füchse Berlin,2021,H,28,27
+28,THW Kiel,27,25,MT Melsungen,2021,H,27,25
+28,Nettelstedt-Lubbecke,22,29,Rhein-Neckar Löwen,2021,A,29,22
+28,TVB 1898 Stuttgart,29,25,SC DHfK Leipzig,2021,H,29,25
+28,TSV Hannover-Burgdorf,22,28,HSG Wetzlar,2021,A,28,22
+29,SG Flensburg-Handewitt,26,21,FRISCH AUF! Göppingen,2021,H,26,21
+29,SC DHfK Leipzig,20,31,THW Kiel,2021,A,31,20
+29,MT Melsungen,22,29,TSV Hannover-Burgdorf,2021,A,29,22
+29,HSG Wetzlar,28,30,Füchse Berlin,2021,A,30,28
+29,HC Erlangen,36,38,SC Magdeburg,2021,A,38,36
+29,GWD Minden,25,26,TVB 1898 Stuttgart,2021,A,26,25
+29,HSV Hamburg,32,24,Nettelstedt-Lubbecke,2021,H,32,24
+29,Rhein-Neckar Löwen,24,22,Bergischer HC HC,2021,H,24,22
+29,Balingen-Weilstetten,29,32,TBV Lemgo Lippe,2021,A,32,29
+30,TSV Hannover-Burgdorf,31,27,Balingen-Weilstetten,2021,H,31,27
+30,TBV Lemgo Lippe,24,23,Rhein-Neckar Löwen,2021,H,24,23
+30,HSG Wetzlar,26,30,HC Erlangen,2021,A,30,26
+30,FRISCH AUF! Göppingen,24,28,HSV Hamburg,2021,A,28,24
+30,Bergischer HC HC,25,26,GWD Minden,2021,A,26,25
+30,Füchse Berlin,34,25,SC DHfK Leipzig,2021,H,34,25
+30,SC Magdeburg,33,26,MT Melsungen,2021,H,33,26
+30,TVB 1898 Stuttgart,26,28,SG Flensburg-Handewitt,2021,A,28,26
+30,THW Kiel,32,23,Nettelstedt-Lubbecke,2021,H,32,23
+31,Rhein-Neckar Löwen,28,23,TVB 1898 Stuttgart,2021,H,28,23
+31,MT Melsungen,18,23,TBV Lemgo Lippe,2021,A,23,18
+31,GWD Minden,26,26,TSV Hannover-Burgdorf,2021,D,26,26
+31,Balingen-Weilstetten,24,28,HSG Wetzlar,2021,A,28,24
+31,Nettelstedt-Lubbecke,22,27,FRISCH AUF! Göppingen,2021,A,27,22
+31,HC Erlangen,25,31,Füchse Berlin,2021,A,31,25
+31,SG Flensburg-Handewitt,27,28,THW Kiel,2021,A,28,27
+31,SC DHfK Leipzig,22,26,Bergischer HC HC,2021,A,26,22
+31,HSV Hamburg,22,32,SC Magdeburg,2021,A,32,22
+32,Rhein-Neckar Löwen,28,23,TVB 1898 Stuttgart,2021,H,28,23
+32,MT Melsungen,18,23,TBV Lemgo Lippe,2021,A,23,18
+32,GWD Minden,26,26,TSV Hannover-Burgdorf,2021,D,26,26
+32,Balingen-Weilstetten,24,28,HSG Wetzlar,2021,A,28,24
+32,Nettelstedt-Lubbecke,22,27,FRISCH AUF! Göppingen,2021,A,27,22
+32,HC Erlangen,25,31,Füchse Berlin,2021,A,31,25
+32,SG Flensburg-Handewitt,27,28,THW Kiel,2021,A,28,27
+32,SC DHfK Leipzig,22,26,Bergischer HC HC,2021,A,26,22
+32,HSV Hamburg,22,32,SC Magdeburg,2021,A,32,22
+33,FRISCH AUF! Göppingen,33,33,TBV Lemgo Lippe,2021,D,33,33
+33,MT Melsungen,27,22,HSG Wetzlar,2021,H,27,22
+33,Rhein-Neckar Löwen,26,33,THW Kiel,2021,A,33,26
+33,SG Flensburg-Handewitt,21,24,Bergischer HC HC,2021,A,24,21
+33,Balingen-Weilstetten,23,23,Füchse Berlin,2021,D,23,23
+33,SC DHfK Leipzig,31,36,SC Magdeburg,2021,A,36,31
+33,GWD Minden,22,21,HC Erlangen,2021,H,22,21
+33,Nettelstedt-Lubbecke,21,20,TSV Hannover-Burgdorf,2021,H,21,20
+33,HSV Hamburg,27,32,TVB 1898 Stuttgart,2021,A,32,27
+34,SC Magdeburg,37,34,Rhein-Neckar Löwen,2021,H,37,34
+34,TVB 1898 Stuttgart,28,25,MT Melsungen,2021,H,28,25
+34,HSG Wetzlar,30,28,GWD Minden,2021,H,30,28
+34,TBV Lemgo Lippe,28,24,HSV Hamburg,2021,H,28,24
+34,THW Kiel,42,35,FRISCH AUF! Göppingen,2021,H,42,35
+34,HC Erlangen,33,26,Balingen-Weilstetten,2021,H,33,26
+34,Füchse Berlin,22,28,SG Flensburg-Handewitt,2021,A,28,22
+34,TSV Hannover-Burgdorf,26,26,SC DHfK Leipzig,2021,D,26,26
+34,Bergischer HC HC,26,22,Nettelstedt-Lubbecke,2021,H,26,22
